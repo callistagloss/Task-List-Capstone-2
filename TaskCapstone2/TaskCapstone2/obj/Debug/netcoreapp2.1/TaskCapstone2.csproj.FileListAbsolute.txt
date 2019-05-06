@@ -1,0 +1,11 @@
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\bin\Debug\netcoreapp2.1\TaskCapstone2.deps.json
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\bin\Debug\netcoreapp2.1\TaskCapstone2.runtimeconfig.json
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\bin\Debug\netcoreapp2.1\TaskCapstone2.runtimeconfig.dev.json
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\bin\Debug\netcoreapp2.1\TaskCapstone2.dll
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\bin\Debug\netcoreapp2.1\TaskCapstone2.pdb
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.csprojAssemblyReference.cache
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.csproj.CoreCompileInputs.cache
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.AssemblyInfoInputs.cache
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.AssemblyInfo.cs
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.dll
+c:\users\callista\source\repos\TaskCapstone2\TaskCapstone2\obj\Debug\netcoreapp2.1\TaskCapstone2.pdb
